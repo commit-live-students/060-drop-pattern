@@ -1,2 +1,12 @@
 def solution():
-    """Enter Code Here"""
+
+    a = """
+                          ***
+                         *   *
+                         *
+                         * ***
+                         *   *
+                         *   *
+                          ***
+    """
+    return a 
