@@ -1,5 +1,4 @@
 def solution():
-    """Enter Code Here"""
     a=" *** "
     b="*   *"
     c="*    "
