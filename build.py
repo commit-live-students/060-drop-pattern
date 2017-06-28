@@ -1,2 +1,14 @@
+# Write a Python program to construct the following pattern
+
 def solution():
-    """Enter Code Here"""
+    print """
+     ***
+    *   *
+    *
+    * ***
+    *   *
+    *   *
+     ***
+
+    """
+    return
